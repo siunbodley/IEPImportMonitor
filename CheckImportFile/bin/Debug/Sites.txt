@@ -1,0 +1,11 @@
+CA,AthenaCA,S:\Athena.Service\ca.ebgames\Service\Import\,12
+IT,AthenaIT,S:\Athena.Service\it\Service\Import\,07
+DE,AthenaDE,S:\Athena.Service\de\Service\Import\,07
+AT,AthenaAT,S:\Athena.Service\at\Service\Import\,07
+CH,AthenaCH,S:\Athena.Service\ch\Service\Import\,07
+IE,AthenaIE,S:\Athena.Service\ie\Service\Import\,07
+UK,AthenaUK,S:\Athena.Service\uk\Service\Import\,07
+DK,AthenaDK,S:\Athena.Service\dk\Service\Import\,07
+FI,AthenaFI,S:\Athena.Service\fi\Service\Import\,07
+NO,AthenaNO,S:\Athena.Service\no\Service\Import\,07
+SE,AthenaSE,S:\Athena.Service\se\Service\Import\,07

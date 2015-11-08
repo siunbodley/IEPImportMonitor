@@ -1,0 +1,12 @@
+Z:\Dropbox\Development\CheckImportFile\CheckImportFile\bin\Debug\CheckImportFile.exe.config
+Z:\Dropbox\Development\CheckImportFile\CheckImportFile\bin\Debug\CheckImportFile.exe
+Z:\Dropbox\Development\CheckImportFile\CheckImportFile\bin\Debug\CheckImportFile.pdb
+Z:\Dropbox\Development\CheckImportFile\CheckImportFile\obj\Debug\CheckImportFile.exe
+Z:\Dropbox\Development\CheckImportFile\CheckImportFile\obj\Debug\CheckImportFile.pdb
+Z:\Dropbox\Development\CheckImportFile\CheckImportFile\obj\Debug\IEPImportMonitor.csprojResolveAssemblyReference.cache
+Z:\Dropbox\Development\IEPImportMonitor\IEPImportMonitor\CheckImportFile\obj\Debug\IEPImportMonitor.csprojResolveAssemblyReference.cache
+Z:\Dropbox\Development\IEPImportMonitor\IEPImportMonitor\CheckImportFile\bin\Debug\IEPImportMonitor.exe.config
+Z:\Dropbox\Development\IEPImportMonitor\IEPImportMonitor\CheckImportFile\bin\Debug\IEPImportMonitor.exe
+Z:\Dropbox\Development\IEPImportMonitor\IEPImportMonitor\CheckImportFile\bin\Debug\IEPImportMonitor.pdb
+Z:\Dropbox\Development\IEPImportMonitor\IEPImportMonitor\CheckImportFile\obj\Debug\IEPImportMonitor.exe
+Z:\Dropbox\Development\IEPImportMonitor\IEPImportMonitor\CheckImportFile\obj\Debug\IEPImportMonitor.pdb

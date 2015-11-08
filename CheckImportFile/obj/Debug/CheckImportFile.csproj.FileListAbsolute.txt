@@ -1,0 +1,6 @@
+Z:\Dropbox\Development\CheckImportFile\CheckImportFile\bin\Debug\CheckImportFile.exe.config
+Z:\Dropbox\Development\CheckImportFile\CheckImportFile\bin\Debug\CheckImportFile.exe
+Z:\Dropbox\Development\CheckImportFile\CheckImportFile\bin\Debug\CheckImportFile.pdb
+Z:\Dropbox\Development\CheckImportFile\CheckImportFile\obj\Debug\CheckImportFile.csprojResolveAssemblyReference.cache
+Z:\Dropbox\Development\CheckImportFile\CheckImportFile\obj\Debug\CheckImportFile.exe
+Z:\Dropbox\Development\CheckImportFile\CheckImportFile\obj\Debug\CheckImportFile.pdb
